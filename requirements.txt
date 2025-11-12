@@ -2,5 +2,7 @@ streamlit
 pandas
 beautifulsoup4
 requests
-python-dateparser
+dateparser
 google-search-results
+
+
